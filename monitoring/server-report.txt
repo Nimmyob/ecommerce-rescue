@@ -1,0 +1,7 @@
+1. Top 10 largest files
+2.  Disk usage of each top-level directory
+3. All JSON files
+4. Files modified in the last 24 hours
+5. Empty files
+6. Empty directories
+2. Disk usage of each top-level directory
